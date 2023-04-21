@@ -18,7 +18,7 @@ Live Link: https://www.rsww.vercel.app
 Repo: https://github.com/rachel-howell/rlsww
 
 ### My Portfolio
-> Built with Next.js. It's a website all about me and my projects.  
+> Built with Next.js. It's a website all about me and my projects. 
 ![](https://github.com/rachel-howell/portfolio.gif)
 
 Live Link: https://www.rachelhowell.dev  
