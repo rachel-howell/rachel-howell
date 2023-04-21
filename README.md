@@ -14,14 +14,14 @@
 ![](https://github.com/rachel-howell/rswwgif.gif)
 
 Built with Next.js, this application fetches products using GraphQL queries to the Shopify Storefront API.
-Live Link: https://www.rsww.vercel.app
+Live Link: https://www.rsww.vercel.app 
 Repo: https://github.com/rachel-howell/rlsww
 
 ### My Portfolio
 > Built with Next.js. It's a website all about me and my projects.
 ![](https://github.com/rachel-howell/portfolio.gif)
 
-Live Link: https://www.rachelhowell.dev
+Live Link: https://www.rachelhowell.dev 
 Repo: https://github.com/rachel-howell/portfolio
 
 ### ~ shakerr.io ~
@@ -30,7 +30,7 @@ Repo: https://github.com/rachel-howell/portfolio
  
 This application took me on a deep dive through the hairy jungle of RESTful API calls and database querying. Check it out to view, edit, create and delete your very own cocktail recipes!
 
-Live Link: http://www.shakerr.io
+Live Link: http://www.shakerr.io 
 Repo: https://github.com/rachel-howell/shaker
 
 ### ~ The Ballot Box ~
@@ -39,5 +39,5 @@ Repo: https://github.com/rachel-howell/shaker
 
 This virtual polling app did more than help maintain the integrity of virtual elections: it helped me learn GitHub collaboration etiquette with an actual team of developers. I learned that the only thing better than building web applications... is building web applications *together*. 🫂
 
-Live Link: http://100.26.160.109/
+Live Link: http://100.26.160.109/ 
 Repo: https://github.com/rachel-howell/votingApp/tree/dev/ballotbox/src/components
