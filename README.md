@@ -1,6 +1,6 @@
 ## Hi, I'm Rachel!
 
-### I'm a meticulous, self-driven software QA engineer and software developer. I am proficient in React / Node.js / Express / MongoDB web application development. 
+### I'm a meticulous, self-driven software QA engineer and software developer.  
 
 👩🏽‍💻 My favorite technologies are React, Node.js, Express, and MongoDB. I am able to learn new languages and frameworks easily.  
 🔎 I'm eagerly seeking out new opportunities to contribute to challenging projects that will help me grow as a software developer.  
