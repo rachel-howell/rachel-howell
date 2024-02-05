@@ -1,11 +1,10 @@
 ## Hi, I'm Rachel!
 
-### I'm an ambitious, detail-oriented full stack software engineer with expertise in React / Node.js / Express / MongoDB web application development. 
+### I'm a meticulous, self-driven software QA engineer and software developer. I am proficient in React / Node.js / Express / MongoDB web application development. 
 
-👩🏽‍💻 My favorite technologies are Next.js, GraphQL, and Shopify. In addition to the fundamentals (HTML, CSS, Javascript), I am familiar with Java, Python, C++, Swift, and C#. I love learning new techologies. I embrace the challenge and enjoy the struggle.  
-🔎 I'm eagerly seeking out new opportunities to contribute to challenging projects that will push me out of my comfort zone.  
-🙌🏼  I'm a natural leader with a knack for delegating tasks fairly and efficiently.  
-🏋🏼 When I'm not writing code, you can find me lifting weights, wandering through the forests of Portland, and chilling with my cats.  
+👩🏽‍💻 My favorite technologies are React, Node.js, Express, and MongoDB. I am able to learn new languages and frameworks easily.  
+🔎 I'm eagerly seeking out new opportunities to contribute to challenging projects that will help me grow as a software developer.  
+🏋🏼 When I'm not writing code, you can find me enjoying live music, lifting weights, and hanging out with my cats.  
 
 ## My Projects:
 
