@@ -2,7 +2,7 @@
 
 ### I'm a meticulous, self-driven software QA engineer and software developer.  
 
-👩🏽‍💻 My favorite technologies are React, Node.js, Express, and MongoDB. 
+👩🏽‍💻 My favorite technologies are React, Node.js, Express, and MongoDB.  
 🔎 I'm eagerly seeking out new opportunities to contribute to challenging projects that will help me grow as a software developer.  
 🏋🏼 When I'm not breaking software or writing code, you can find me enjoying live music, lifting weights, and hanging out with my cats.  
 
