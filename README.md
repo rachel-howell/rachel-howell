@@ -24,19 +24,10 @@ Live Link: https://www.rachelhowell.dev
 Repo: https://github.com/rachel-howell/portfolio
 
 ### ~ shakerr.io ~
-> Cocktail recipe full stack web application with full CRUD functionality.
+> Cocktail recipe full stack web application with full CRUD functionality. (TEMPORARILY OFFLINE 4/17/24)
 ![](https://github.com/rachel-howell/rachel-howell/shakerr.gif)
  
 This application took me on a deep dive through the hairy jungle of RESTful API calls and database querying. Check it out to view, edit, create and delete your very own cocktail recipes!
 
 Live Link: http://www.shakerr.io  
 Repo: https://github.com/rachel-howell/shaker  
-
-### ~ The Ballot Box ~
-> a labor of love built in collaboration with my incredible dev team.
-![](https://github.com/rachel-howell/rachel-howell/ballotbox.gif)
-
-This virtual polling app did more than help maintain the integrity of virtual elections: it helped me learn GitHub collaboration etiquette with an actual team of developers. I learned that the only thing better than building web applications... is building web applications *together*. 🫂
-
-Live Link: http://100.26.160.109/  
-Repo: https://github.com/rachel-howell/votingApp/tree/dev/ballotbox/src/components
