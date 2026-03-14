@@ -6,4 +6,4 @@ Building autonomous testing systems and experimenting with AI agents.
 
 **Currently:** Scaling quality infrastructure, writing OpenClaw skills, lifting heavy things.
 
-[LinkedIn]((https://www.linkedin.com/in/racheljhowell/))
+[LinkedIn](https://www.linkedin.com/in/racheljhowell/)
