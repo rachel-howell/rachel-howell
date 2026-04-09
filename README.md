@@ -4,6 +4,6 @@ Building autonomous testing systems and experimenting with AI agents.
 
 **Tech:** TypeScript • Python • Go • Claude Code • Playwright • OpenClaw
 
-**Currently:** Scaling quality infrastructure, writing OpenClaw skills, lifting heavy things.
+**Currently:** Scaling quality infrastructure, writing Claude Code plugins/OpenClaw skills, lifting heavy things.
 
 [LinkedIn](https://www.linkedin.com/in/racheljhowell/)
