@@ -1,4 +1,4 @@
-## Lead SDET • AI-Powered Test Automation
+## AI Quality Engineer • AI-Powered Test Automation
 
 Building autonomous testing systems and experimenting with AI agents.
 
