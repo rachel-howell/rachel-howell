@@ -1,4 +1,4 @@
-## AI Quality Engineer • AI-Powered Test Automation
+## AI Quality Engineer
 
 Building autonomous testing systems and experimenting with AI agents.
 
